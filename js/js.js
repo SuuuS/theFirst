@@ -1,1 +1,3 @@
-alert("1111");
+$(function(){
+	alert("弹出");
+})
